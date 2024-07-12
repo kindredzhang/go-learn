@@ -1,9 +1,9 @@
 package request
 
 import (
-	"mai/model/common"
-	"main.go/model/common/request"
-	"main.go/model/manage"
+	"go-learn/model/common"
+	"go-learn/model/common/request"
+	"go-learn/model/manage"
 )
 
 type MallGoodsInfoSearch struct {

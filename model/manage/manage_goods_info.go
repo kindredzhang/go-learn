@@ -2,7 +2,7 @@
 package manage
 
 import (
-	"main.go/model/common"
+	"go-learn/model/common"
 )
 
 // MallGoodsInfo 结构体
